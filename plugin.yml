@@ -1,0 +1,8 @@
+name: XDBan
+api: 3.0.0-ALPHA11
+main: xdban\Main
+version: 1.0.0
+author: korado531m7
+commands:
+ b:
+  description: "none"
