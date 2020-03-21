@@ -1,8 +1,8 @@
 name: XDBan
-api: 3.0.0-ALPHA11
+api: 3.0.0
 main: xdban\Main
 version: 1.0.0
 author: korado531m7
 commands:
- b:
+ b:期間を指定してプレイヤーをbanします。
   description: "none"
